@@ -46,6 +46,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Search engines
 
+- [MemFree](https://github.com/memfreeme/memfree) - Hybrid AI search engine. Get instant answers from your knowledge base and the whole internet. #opensource
+
 ### Local search engines
 
 - [Rewind](https://www.rewind.ai/) - Rewind captures everything you've seen on your Mac and iPhone and makes it searchable with AI.
@@ -116,6 +118,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GPTRouter](https://gpt-router.writesonic.com/) - An open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models.
 - [Ragie](https://www.ragie.ai/) - A fully managed RAG-as-a-Service platform for developers.
 - [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
+- [SQLAI.ai](https://www.sqlai.ai/) - Generate, fix, explain and optimize SQL. Get data insights and integrate your app with RAG-powered AI generators.
 
 ### Playgrounds
 
@@ -127,6 +130,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Versatile multi-LLM & multi-agent client with RAG, multi-modality, automation, code interpreter, sandboxed file system and more.
 - [Maestro](https://runmaestro.ai) - Run multiple AI coding agents in parallel with a spec-driven workflow. [#opensource](https://github.com/pedramamini/Maestro)
+- [Maxim AI](https://www.getmaxim.ai) - An enterprise-grade generative AI evaluation and observability platform.
 
 ### Custom assistants
 
@@ -220,5 +224,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Deliberative Prompting](https://github.com/logikon-ai/awesome-deliberative-prompting) - Papers & code about reliable reasoning and reason-responsive decision-making in LLMs.
 - [The Rundown AI List](https://www.rundown.ai/tools) - AI tools organized and categorized.
 - [GPT Tracker](https://gptstracker.com/) - Discover 1000+ GPTs & AI Tools.
+- [31 Best AI Coding Tools](https://www.scaler.com/blog/coding-ai-tools/) - A list of AI coding tools.
 
 ### Lists on ChatGPT

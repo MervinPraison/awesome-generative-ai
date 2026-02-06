@@ -121,7 +121,6 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Cogram](https://www.cogram.com/) - Cogram takes automatic notes in virtual meetings and identifies action items.
 - [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
 - [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
-- [Fireflies.ai](https://fireflies.ai/) - Fireflies.ai helps your team transcribe, summarize, search, and analyze voice conversations.
 - [Read AI](https://www.read.ai/) - An AI copilot for wherever you work, making your meetings, emails, and messages more productive with summaries, content discovery, and recommendations.
 - [Fireflies.ai](https://fireflies.ai) - Transcribe, summarize, search, and analyze all your team conversations.
 
@@ -211,7 +210,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
 - [Open WebUI](https://github.com/open-webui/open-webui) - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource
 - [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource](https://github.com/janhq/jan)
-- [Msty](https://msty.app/) - A straightworward and powerful interface for local and online AI models.
+- [Msty](https://msty.app/) - A straightforward and powerful interface for local and online AI models.
 - [PyGPT](https://pygpt.net/) - Personal desktop AI assistant with chat, vision, agents, image generation, tools and commands, voice control and more. #opensource
 - [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource](https://github.com/simonw/llm)
 - [LM Studio](https://lmstudio.ai) - Download and run local LLMs on your computer.
@@ -236,7 +235,10 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Claude Code](https://code.claude.com) - Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code.
 - [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli)
 - [Mastra](https://mastra.ai) - An all-in-one framework for building AI-powered applications and agents.
-- [Clawdbot](https://clawd.bot) - A personal AI assistant you run on your own devices. It answers you on the channels you already use (WhatsApp, Telegram, etc.). [#opensource](https://github.com/clawdbot/clawdbot)
+- [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/clawdbot/clawdbot)
+- [moltbook](https://www.moltbook.com) - A social network for AI agents.
+- [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
+- [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
 
 ### Custom assistants
 
@@ -338,7 +340,7 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Animation
 
-- [Wonder Dynamics](https://wonderdynamics.com/) -  Effortlessly animate, light, and compose CG characters into live scenes.
+- [Wonder Dynamics](https://wonderdynamics.com/) - Effortlessly animate, light, and compose CG characters into live scenes.
 
 ## Audio
 
